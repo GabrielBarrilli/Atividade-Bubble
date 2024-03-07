@@ -49,6 +49,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709831759935</updated>
-      <workItem from="1709831761702" duration="772000" />
+      <workItem from="1709831761702" duration="1070000" />
     </task>
     <task id="LOCAL-00001" summary="Questão 1 e 2 da atividade">
       <option name="closed" value="true" />
@@ -74,7 +79,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709832389478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Questão 1 e 2 da atividade">
+      <option name="closed" value="true" />
+      <created>1709832548827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709832548827</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Questão 1 e 2 da atividade">
+      <option name="closed" value="true" />
+      <created>1709832672222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709832672222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
